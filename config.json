@@ -1,6 +1,6 @@
 {
 	"ip":"keyzensmp.aternos.me",
-	"port": "59952",
+	"port": "25565",
 	"name": "NRBot",
 	"auto-night-skip":"true"
 }
